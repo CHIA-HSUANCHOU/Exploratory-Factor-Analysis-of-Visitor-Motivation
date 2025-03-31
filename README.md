@@ -1,9 +1,9 @@
 # Exploratory-Factor-Analysis-of-Visitor-Motivation
 
 ---
-title: Designing a Rural Tourism Day Tour Based on Exploratory Factor Analysis of Visitor Motivation
+Title: Designing a Rural Tourism Day Tour Based on Exploratory Factor Analysis of Visitor Motivation
 
-author: Chou Chia-Hsuan
+Author: Chou Chia-Hsuan
 
 Time:2022/4
 
