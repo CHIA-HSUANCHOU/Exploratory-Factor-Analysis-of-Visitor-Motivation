@@ -18,17 +18,40 @@ Time:2022/4
 - **Number of Factors**: Based on the Kaiser criterion (i.e., eigenvalues greater than 1), 6 factors were extracted.
 - **Total Variance Explained**: 6 factors jointly explain **63.809%** of the variance.
 
-- **Factor Naming and Interpretation**:
-| Factor                          | Associated Items                                                                 |
-|--------------------------------|----------------------------------------------------------------------------------|
-| **Factor 1: Mental and Spiritual Relaxation** | - Releasing pressure from daily life or studies  <br> - Getting close to and experiencing nature  <br> - Seeking inner peace  <br> - Relaxing mind and body, balancing life  <br> - Escaping the noisy urban environment  <br> - Enjoying the countryside and natural scenery  <br> - Experiencing nostalgic rural atmosphere |
-| **Factor 2: Self-Discovery and Learning**     | - Affirming oneself and finding personal value  <br> - Enhancing social and interpersonal relationships  <br> - Gaining opportunities to learn new things  <br> - Broadening horizons and acquiring knowledge |
-| **Factor 3: Experiencing Rural Characteristics** | - Participating in rural-themed activities  <br> - Exploring rural scenery and cultural traditions  <br> - Purchasing and tasting local specialties |
-| **Factor 4: Family Bonding**                  | - Strengthening family relationships and enriching life  <br> - More affordable than traveling abroad  <br> - Visiting relatives and friends |
-| **Factor 5: Spontaneity**                     | - Traveling on impulse  <br> - No specific reason, just going along with friends or family |
-| **Factor 6: Trend Following / Curiosity**     | - Visiting famous places out of curiosity  <br> - Invited by friends or family |
+### Factor Naming and Interpretation
 
+**Factor 1: Mental and Spiritual Relaxation**
+- Releasing pressure from daily life or studies
+- Getting close to and experiencing nature
+- Seeking inner peace
+- Relaxing mind and body, balancing life
+- Escaping the noisy urban environment
+- Enjoying the countryside and natural scenery
+- Experiencing nostalgic rural atmosphere
 
+**Factor 2: Self-Discovery and Learning**
+- Affirming oneself and finding personal value
+- Enhancing social and interpersonal relationships
+- Gaining opportunities to learn new things
+- Broadening horizons and acquiring knowledge
+
+**Factor 3: Experiencing Rural Characteristics**
+- Participating in rural-themed activities
+- Exploring rural scenery and cultural traditions
+- Purchasing and tasting local specialties
+
+**Factor 4: Family Bonding**
+- Strengthening family relationships and enriching life
+- More affordable than traveling abroad
+- Visiting relatives and friends
+
+**Factor 5: Spontaneity**
+- Traveling on impulse
+- No specific reason, just going along with friends or family
+
+**Factor 6: Trend Following / Curiosity**
+- Visiting famous places out of curiosity
+- Invited by friends or family
 
 ## Rural Tourism Day Tour Itinerary Design
 
