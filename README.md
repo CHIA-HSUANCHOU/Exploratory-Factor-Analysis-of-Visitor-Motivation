@@ -3,9 +3,9 @@
 ---
 Title: Designing a Rural Tourism Day Tour Based on Exploratory Factor Analysis of Visitor Motivation
 
-Author: Chou Chia-Hsuan
+Date:2022/4
 
-Time:2022/4
+Course:Multivariate Analysis
 
 ---
 
