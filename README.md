@@ -73,10 +73,3 @@ Time:2022/4
 | 17:00  | Closing ceremony with souvenir                      | All six motivation factors                              |
 
 
-
----
-
-## 🔚 Conclusion
-
-By integrating the results of exploratory factor analysis, we designed a rural tourism itinerary that directly responds to six key visitor motivations. This data-driven approach helps align tourism product development with actual psychological and experiential needs, providing value for both tourists and destination managers.
-
